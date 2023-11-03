@@ -1,0 +1,26 @@
+{
+  "name": "bddcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoOliveira89/BDDCYPRESS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoOliveira89/BDDCYPRESS/issues"
+  },
+  "homepage": "https://github.com/RicardoOliveira89/BDDCYPRESS#readme",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.0.0",
+    "cypress": "^13.4.0",
+    "install": "^0.13.0",
+    "npm": "^10.2.3"
+  }
+}
